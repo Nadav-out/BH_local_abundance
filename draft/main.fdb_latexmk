@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex main"] 1604238661 "main.aux" "main.bbl" "main" 1604238748
+["bibtex main"] 1604238661 "main.aux" "main.bbl" "main" 1604239370
   "./aasjournal.bst" 1604238593 36130 1e2d4614828005814bd64e3c665b8e99 ""
-  "main.aux" 1604238747 1265 e54b675718ef29fe635fcfd68fefca71 ""
+  "main.aux" 1604238967 1265 e54b675718ef29fe635fcfd68fefca71 ""
   "main.bib" 1604238593 543 a90af191d236a6f6f2322de45eae9788 ""
   (generated)
   "main.blg"
   "main.bbl"
-["xdvipdfmx"] 1604238747 "main.xdv" "main.pdf" "main" 1604238748
-  "main.xdv" 1604238747 7692 e6b37d9982c377dfe69e7728a9d8b801 "xelatex"
+["xdvipdfmx"] 1604238968 "main.xdv" "main.pdf" "main" 1604239370
+  "main.xdv" 1604238967 7856 477be13a783289a189ee9c4e5741e7c2 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1604238745 "main.tex" "main.xdv" "main" 1604238748
+["xelatex"] 1604238966 "main.tex" "main.xdv" "main" 1604239370
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/helvetic/phvr.tfm" 1480098688 2504 ba6584b616b92101c768b6c4ffb32dd0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -132,12 +132,12 @@
   "Orcid-ID.png" 1604238593 27604 8527c7c3c14d5c207af947385c09fd77 ""
   "aas_macros.sty" 1604238593 5889 50b63fae94b917a77387f6b46c8fd857 ""
   "aastex63.cls" 1604238593 223700 8eb0a92b64442e58ece894a8eb23d46a ""
-  "main.aux" 1604238747 1265 e54b675718ef29fe635fcfd68fefca71 ""
+  "main.aux" 1604238967 1265 e54b675718ef29fe635fcfd68fefca71 ""
   "main.bbl" 1604238662 423 d77541692561a4e688805564dd21765b "bibtex main"
-  "main.out" 1604238747 175 379315166b96d34bf832f32523d52a4d ""
-  "main.tex" 1604238745 2904 8119c4640ff4def8f41303b7c8659ad2 ""
+  "main.out" 1604238967 175 379315166b96d34bf832f32523d52a4d ""
+  "main.tex" 1604238965 3030 38d536bbb0c371c7ef5e62abda61a6cf ""
   (generated)
   "main.log"
-  "main.out"
   "main.aux"
+  "main.out"
   "main.xdv"
